@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mitte_rechts">mitte rechts</string>
+    <string name="mitte_mitte">mitte mitte</string>
+    <string name="mitte_links">mitte links</string>
+    <string name="oben_mitte">oben mitte</string>
+    <string name="oben_rechts">oben rechts</string>
+    <string name="oben_links">oben links</string>
+    <string name="unten_rechts">unten rechts</string>
+    <string name="unten_mitte">unten mitte</string>
+    <string name="unten_links">unten links</string>
+    <string name="play_again">Play again</string>
+</resources>
